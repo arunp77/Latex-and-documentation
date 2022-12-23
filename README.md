@@ -32,7 +32,21 @@ Here I will be giving a detail overview of latex.
     pdflatex filename.tex
     ```
 
-- **Latex editor:**
+- **Latex editor:** Based on operating system, there are many latex editor. My favorite are as follows:
+    * **For Windows system:** 
+        - [Overleaf](https://www.overleaf.com/) - A lot of templates
+        - [TeXmaker](https://www.xm1math.net/texmaker/) - Cross-platform
+        - [TeXstudio](https://www.texstudio.org/) - Integrated viewer
+    * **For MacOS systems:**
+        - [Overleaf](https://www.overleaf.com/) - A lot of templates
+        - [TeXmaker](https://www.xm1math.net/texmaker/) - Cross-platform
+        - [TeXstudio](https://www.texstudio.org/) - Integrated viewer
+    * **For Linux based systems:**
+        - [Overleaf](https://www.overleaf.com/) - A lot of templates
+        - [TeXmaker](https://www.xm1math.net/texmaker/) - Cross-platform
+        - [TeXstudio](https://www.texstudio.org/) - Integrated viewer
+
+
 # LaTex
 L<sup>A</sup>T<sub>E</sub>X is a tool for typesetting professional-looking documents. 
 
