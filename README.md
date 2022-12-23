@@ -2,7 +2,7 @@
 Here I will be giving a detail overview of latex
 
 # LaTex
-L<sup>A</sup>TEX is a tool for typesetting professional-looking documents. 
+L<sup>A</sup>T<sub>E</sub>X is a tool for typesetting professional-looking documents. 
 
 
 
