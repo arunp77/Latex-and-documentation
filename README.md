@@ -6,6 +6,11 @@ Here I will be giving a detail overview of latex.
 - You can add any image, draw table, change text color, change style of the text similar to HTML but with some other commands. 
 - For adding image, you can put all images in same folder for sake of simplicity or you can also call any image from any directory by providing the path of the file.
 
+### Things required before starting your first latex project
+- **Latex compler:** Depending on the system that you have, you need to install first a latex compiler and then a latex editor (always remember, don't install latex editor before latex complier otherwise, you may face some problem during compilation of the latex file).
+    * dsksjd
+    * dsji
+- **Latex editor:**
 # LaTex
 L<sup>A</sup>T<sub>E</sub>X is a tool for typesetting professional-looking documents. 
 
