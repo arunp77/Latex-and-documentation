@@ -27,10 +27,10 @@ Here I will be giving a detail overview of latex.
     * **Online latex compile:** You can also run and create latex file, online on [overleaf website](https://www.overleaf.com/). Just you have to create a account. If you have some work in group/collaboration then this is one of the best option. Here all team members can complie a latex file simultaneously 
     with any error. Here you can see your team members edits in real time. I have been using it from last 6-7 years and in research community this is used extensively. 
 
-After instaling the latex complier in your system, you can create a file with a extension of `.tex` and complie it via command line. For example in MacOs and any linux OS, use following command to create a pdf file after the complation. 
-```
-pdflatex filename.tex
-```
+    After instaling the latex complier in your system, you can create a file with a extension of `.tex` and complie it via command line. For example in MacOs and any linux OS, use following command to create a pdf file after the complation. 
+    ```
+    pdflatex filename.tex
+    ```
 
 - **Latex editor:**
 # LaTex
